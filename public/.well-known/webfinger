@@ -1,0 +1,9 @@
+{
+  "subject": "acct:dobby@rivas.org",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://dev-pwnwov34oe7h0zot.us.auth0.com/"
+    }
+  ]
+}
