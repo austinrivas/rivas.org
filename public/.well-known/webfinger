@@ -1,5 +1,5 @@
 {
-  "subject": "acct:dobby@rivas.org",
+  "subject": "acct:admin@rivas.org",
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
